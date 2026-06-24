@@ -64,10 +64,10 @@ def mse(x, locations, distances):
 # locations: [ (lat1, long1), ... ]
 # distances: [ distance1,     ... ] 
 
-# ----------------------------
-# Fake tower/beacon data
-# ----------------------------
 
+
+
+# Fake tower/beacon data
 locations = [
     [20.000, 23.000],  # tower 1
     [20.100, 23.200],  # tower 2
